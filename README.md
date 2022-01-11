@@ -1,9 +1,8 @@
 # MERN E-COMMERCE Website
 
-<h1><a href="https://mern-stack-ecommerce-store.herokuapp.com">Website Demo</a>
+<h1><a href="https://ecommerce-mern-stack.netlify.app">Website Demo</a>
 </h1>
-<h3>Email: test@gmail.com</h3>
-<h3>password: 123456789 </h3>
+
 
 Hi! My name is **Anil Patidar**, I have created this tutorial to teach MERN Stack for free.
 
